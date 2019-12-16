@@ -46,7 +46,7 @@
       <icon src="res/icon/ios/icon-167.png" width="167" height="167"/>
       <icon src="res/icon/ios/icon-83.5@2x.png" width="167" height="167"/>
     </platform>
-
+ <!-- b ruh
     <platform name="android">
       <icon density="ldpi" src="res/icon/android/ldpi.png"/>
       <icon density="mdpi" src="res/icon/android/mdpi.png"/>
@@ -55,6 +55,6 @@
       <icon density="xxhdpi" src="res/icon/android/xxhdpi.png"/>
       <icon density="xxxhdpi" src="res/icon/android/xxxhdpi.png"/>
     </platform>
-
+-->
 
 </widget>
